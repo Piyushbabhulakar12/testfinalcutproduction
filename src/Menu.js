@@ -21,13 +21,13 @@ function Contact() {
          <Link class="nav-link navbar_text" to="/aboutus">About Us</Link>
         </li>
         <li class="nav-item">
-          <a class="nav-link navbar_text" href="#">Team</a>
+          <Link class="nav-link navbar_text" href="#">Team</Link>
         </li>
         <li class="nav-item">
-          <a class="nav-link navbar_text" href="#">Work</a>
+          <Link class="nav-link navbar_text" href="#">Work</Link>
         </li>
         <li class="nav-item">
-          <a class="nav-link navbar_text" href="#">Picture</a>
+          <Link class="nav-link navbar_text" href="#">Picture</Link>
         </li>
          <li class="nav-item">
            <Link class="nav-link navbar_text" to="/contact">Contact</Link>
