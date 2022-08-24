@@ -18,7 +18,7 @@ function App() {
            
     
        <Routes>
-        <Route path="/" exact element={<Home/>} />
+        <Route path="/testfinalcutproduction" exact element={<Home/>} />
         <Route path="/contact" element={<Contact/>} />
         <Route path="/cinmatic-video" element={<CinmaticVideo/>} />
         <Route path="Cinmaticv/:id" element={<Cinmaticv />} />
