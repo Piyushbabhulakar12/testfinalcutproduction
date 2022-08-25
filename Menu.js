@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-function Contact() {
+function Menu() {
   return (
     <div>
      
@@ -152,4 +152,4 @@ function Contact() {
   );
 }
 
-export default Contact;
+export default Menu;
